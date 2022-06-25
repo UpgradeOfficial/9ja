@@ -9,16 +9,16 @@ classifiers = [
 ]
  
 setup(
-  name='9ja',
+  name='nigeria',
   version='0.0.1',
-  description='An API for 9ja',
+  description='An API for nigeria',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='Odeyemi Increase Ayobami',
   author_email='odeyemiincrease@yahoo.com',
   license='MIT', 
   classifiers=classifiers,
-  keywords='9ja,Nigeria', 
+  keywords='Africa, Nigeria', 
   packages=find_packages(),
   install_requires=[''] 
 )
